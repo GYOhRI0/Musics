@@ -7,6 +7,9 @@ Cakewalk by BandLab
 :Cakewalk TTS  
 :SI-Drum Kit  
 :SI-Bass Guitar  
+## what file are/中身  
+Cakewalk Project File (.cwp)
+WAV ファイル (.wav)
 ## license to use/使用ライセンス  
 here allows everyone to use these works and files in range of only you use.  
 すべての個人利用を許可する。  
