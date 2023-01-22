@@ -1,6 +1,9 @@
 # no karisuma/求心力はないよ
 all created by gyoh  
-作曲：暁理
+作曲：暁理  
+## links/外部リンク
+youtube
+: https://youtu.be/68HJkMmQWwQ  
 ## Software I used/使用ソフト
 Cakewalk by BandLab
 ### plugins/プラグイン
